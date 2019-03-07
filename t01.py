@@ -4,3 +4,4 @@ dict={'x':[1,2,3,4],
 
 # print dict['x'][1]
 
+del 
