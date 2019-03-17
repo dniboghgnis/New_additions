@@ -4,4 +4,11 @@ dict={'x':[1,2,3,4],
 
 # print dict['x'][1]
 
-del 
+
+df=pd.DataFrame(dict)
+# print (df)
+
+# print(df.shape)
+rows,cols=df.shape
+
+print(rows)
