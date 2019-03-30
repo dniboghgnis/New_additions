@@ -10,5 +10,6 @@ df=pd.DataFrame(dict)
 
 # print(df.shape)
 rows,cols=df.shape
+# returns a tuple
+# print(rows)
 
-print(rows)
